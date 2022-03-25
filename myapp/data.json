@@ -1,0 +1,23 @@
+[{
+    "name" : "Toth Szilvia",
+    "age" : "33",
+    "marital_status" : "happily married",
+    "children": [
+        {
+            "name" : "Kiss Botond",
+            "age": "2"
+        }
+    ]
+},
+
+{
+    "name" : "Kiss Tamás",
+    "age" : "35",
+    "marital_status" : "happily married",
+    "children": [
+        {
+            "name" : "Kiss Botond",
+            "age": "2"
+        }
+    ]
+}]
